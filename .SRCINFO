@@ -1,0 +1,20 @@
+pkgbase = android-utils-git
+	pkgdesc = Common commands one wants in Android.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.g5f03476d9988af548fa241edc87f8a7eb27cc880
+	pkgrel = 1
+	url = https://github.com/themartiancompany/android-utils
+	arch = any
+	groups = hip
+	groups = hip-git
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	makedepends = curl
+	makedepends = jq
+	depends = bash
+	provides = android-utils=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.g5f03476d9988af548fa241edc87f8a7eb27cc880
+	conflicts = android-utils
+	source = android-utils.tar.gz::https://github.com/themartiancompany/android-utils/archive/refs/heads/master.tar.gz
+	sha256sums = SKIP
+
+pkgname = android-utils-git

@@ -8,7 +8,7 @@ _local=false
 _proj="hip"
 _pkgname=android-utils
 pkgname="${_pkgname}-git"
-pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1".r5.g"53e6d8a0f0be67cc8a1aa216b84caf5c1802a480"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1".r8.g"4cfcfbdd37ddfcc73d1e971e35604f3e6f2a8a3f"
 pkgrel=1
 _pkgdesc=(
   "Common commands one wants in Android."
